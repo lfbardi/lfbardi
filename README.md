@@ -2,10 +2,6 @@
 
 - 🔭 Flutter Developer.
 
-- 🌱 Other techs i'm interested working with - Nodejs, Reactjs, Swift.
-
-- 🤞 Open to work.
-
 
 <div>
   <a href="https://github.com/lfbardi">
