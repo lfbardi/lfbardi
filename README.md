@@ -9,6 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfbardi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<a href="https://app.daily.dev/lfbardi"><img src="https://api.daily.dev/devcards/0c73647b5c124019a68d4d738f479fa2.png?r=1yt" width="400" alt="Luis Felipe Bardi's Dev Card"/></a>
+
 ## Techs
 
 <div style="display: inline_block"><br>
